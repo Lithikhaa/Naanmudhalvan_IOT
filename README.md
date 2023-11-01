@@ -1,17 +1,15 @@
 # Air quality monitoring
 
-> When should I open my window for fresh air?
-> Here is the answer!
 
 This repository provides a ready to install app for
-air quality monitoring with an [SGP30 Air Quality Sensor](https://www.sparkfun.com/products/16531)
+air quality monitoring with an [SGP30 Air Quality Sensor]
 and a raspberry pi.
 
 ## Setup
 
 You will need:
 
-- [SGP30 Air Quality Sensor](https://www.sparkfun.com/products/16531)
+- [SGP30 Air Quality Sensor]
 - A Raspberry Pi
 
 ### Flash already built image
